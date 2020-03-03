@@ -6,9 +6,8 @@
 ## なぜ作ったか
 Twitterは見てるのに天気予報は見てなくて雨が降って困った，という自分の体験から，こういうbotがあれば雨対策ができると考えたから．
 
-## デプロイ先
-※現在テスト中のため，完成したら専用Twitterアカウントに置き換える可能性があります.  
-https://twitter.com/kitashin_dashin
+## デプロイ先 
+https://twitter.com/ten_ki_tashin
 
 ## 仕組み
 pythonのコードをheroku上に置いて，定期実行をしています．  
