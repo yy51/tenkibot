@@ -13,4 +13,4 @@ https://twitter.com/kitashin_dashin
 ## 仕組み
 pythonのコードをheroku上に置いて，定期実行をしています．  
 実行されると，tenki.jpのサイトに行き，指定した場所の降水確率を取ってきます．  
-その降水確率の値がある値(ここでは30)以上だと，twittetのapiを経由してtweetします．  
+その降水確率の値がある値(ここでは30)以上だと，twitterのapiを経由してtweetします．  
